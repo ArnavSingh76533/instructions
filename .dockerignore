@@ -1,0 +1,10 @@
+.git
+.env
+.env.*
+!.env.example
+backups
+*.session
+*.session-journal
+*.sqlite*
+*.tar.gz
+node_modules
